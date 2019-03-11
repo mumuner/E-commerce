@@ -1,0 +1,16 @@
+﻿  bank.cpp
+c:\users\legend\desktop\大三上\bank\bank\bank.cpp(32): error C2601: “login”: 本地函数定义是非法的
+  c:\users\legend\desktop\大三上\bank\bank\class.hpp(271): note: 此行有一个“{”没有匹配项
+c:\users\legend\desktop\大三上\bank\bank\bank.cpp(44): error C2601: “del_card”: 本地函数定义是非法的
+  c:\users\legend\desktop\大三上\bank\bank\class.hpp(271): note: 此行有一个“{”没有匹配项
+c:\users\legend\desktop\大三上\bank\bank\bank.cpp(56): error C2601: “batchreg”: 本地函数定义是非法的
+  c:\users\legend\desktop\大三上\bank\bank\class.hpp(271): note: 此行有一个“{”没有匹配项
+c:\users\legend\desktop\大三上\bank\bank\bank.cpp(110): error C2601: “jsonreg”: 本地函数定义是非法的
+  c:\users\legend\desktop\大三上\bank\bank\class.hpp(271): note: 此行有一个“{”没有匹配项
+c:\users\legend\desktop\大三上\bank\bank\bank.cpp(173): error C2601: “initial”: 本地函数定义是非法的
+  c:\users\legend\desktop\大三上\bank\bank\class.hpp(271): note: 此行有一个“{”没有匹配项
+c:\users\legend\desktop\大三上\bank\bank\bank.cpp(193): error C2601: “thread01”: 本地函数定义是非法的
+  c:\users\legend\desktop\大三上\bank\bank\class.hpp(271): note: 此行有一个“{”没有匹配项
+c:\users\legend\desktop\大三上\bank\bank\bank.cpp(363): error C2601: “main”: 本地函数定义是非法的
+  c:\users\legend\desktop\大三上\bank\bank\class.hpp(271): note: 此行有一个“{”没有匹配项
+c:\users\legend\desktop\大三上\bank\bank\class.hpp(271): fatal error C1075: 左侧的 大括号“{” 与文件结尾不匹配

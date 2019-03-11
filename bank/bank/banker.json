@@ -1,0 +1,38 @@
+{
+
+    "bank": [
+      {
+        "bankid": "117410",
+        "password": "123456",
+        "bankname": "ICBC",
+        "id": "12345678",
+        "username": "zhang",
+        "balance": 14000
+      },
+      {
+        "bankid": "145456",
+        "password": "654321",
+        "bankname": "ABC",
+        "id": "15232119",
+        "username": "song",
+        "balance": 0
+      },
+      {
+        "bankid": "145123",
+        "password": "123456",
+        "bankname": "ICBC",
+        "id": "15239876",
+        "username": "LIN",
+        "balance": 20000
+      },
+      {
+        "bankid": "153464",
+        "password": "987654",
+        "bankname": "ABC",
+        "id": "12309876",
+        "username": "HAN",
+        "balance": 1500
+      }
+    ]
+
+}

@@ -1,0 +1,7 @@
+﻿  bank.cpp
+c:\users\legend\desktop\bank\bank\bank.cpp(255): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\legend\desktop\bank\bank\bank.cpp(391): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\legend\desktop\bank\bank\bank.cpp(488): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\legend\desktop\bank\bank\bank.cpp(156): warning C4715: “choose_bank”: 不是所有的控件路径都返回值
+  bank.vcxproj -> C:\Users\legend\Desktop\bank\Debug\bank.exe
+  bank.vcxproj -> C:\Users\legend\Desktop\bank\Debug\bank.pdb (Full PDB)
